@@ -1,0 +1,304 @@
+{
+  "_id": "68ab6bd0bb389a2900285917",
+  "kashf": "68ab6bd0bb389a2900285915",
+  "student": {
+    "_id": "68ab6bd0bb389a29002858ef",
+    "name": "امجاد داموك الرشيدي",
+    "email": "s99518564@hg.moe.gov.sa",
+    "schoolId": "8E4BEF1B5F938B046B7E1151EBEBE74E",
+    "isActive": true,
+    "phone": "966501157831"
+  },
+  "classRoom": "68ab6bd0bb389a29002858ec",
+  "totalDegrees": -1,
+  "degreesSettings": [
+    {
+      "name": "true_contribute",
+      "counts": [
+        {
+          "count": 1,
+          "date": "2025-09-09T09:43:19.608Z",
+          "_id": "68bff74a08bb819782a4d193"
+        },
+        {
+          "count": 1,
+          "date": "2025-09-09T09:43:26.377Z",
+          "_id": "68bff74a08bb819782a4d194"
+        },
+        {
+          "count": 1,
+          "date": "2025-09-09T09:43:27.121Z",
+          "_id": "68bff74a08bb819782a4d195"
+        },
+        {
+          "count": 1,
+          "date": "2025-09-11T14:30:13.250Z",
+          "_id": "68c039fa20dd90aa8aad54d0"
+        }
+      ],
+      "degree": 1,
+      "totalCount": 4,
+      "countLimit": 10
+    },
+    {
+      "name": "wrong_contribute",
+      "counts": [
+        {
+          "count": -1,
+          "date": "2025-09-09T23:17:53.605Z",
+          "_id": "68c0b5b137cb734f1fadc422"
+        },
+        {
+          "count": -1,
+          "date": "2025-09-09T23:17:53.821Z",
+          "_id": "68c0b5b137cb734f1fadc423"
+        },
+        {
+          "count": -1,
+          "date": "2025-09-09T23:17:54.015Z",
+          "_id": "68c0b5b137cb734f1fadc424"
+        },
+        {
+          "count": -1,
+          "date": "2025-09-09T23:17:54.217Z",
+          "_id": "68c0b5b137cb734f1fadc425"
+        },
+        {
+          "count": -1,
+          "date": "2025-09-09T23:17:54.421Z",
+          "_id": "68c0b5b137cb734f1fadc426"
+        },
+        {
+          "count": -1,
+          "date": "2025-09-09T23:17:54.601Z",
+          "_id": "68c0b5b137cb734f1fadc427"
+        },
+        {
+          "count": -1,
+          "date": "2025-09-09T23:17:54.809Z",
+          "_id": "68c0b5b137cb734f1fadc428"
+        },
+        {
+          "count": -1,
+          "date": "2025-09-09T23:17:54.996Z",
+          "_id": "68c0b5b137cb734f1fadc429"
+        }
+      ],
+      "degree": -1,
+      "totalCount": -2,
+      "countLimit": 10
+    },
+    {
+      "name": "perfect",
+      "counts": [
+        {
+          "count": 1,
+          "date": "2025-09-09T09:44:00.126Z",
+          "_id": "68bff74a08bb819782a4d196"
+        }
+      ],
+      "degree": 1,
+      "totalCount": 1,
+      "countLimit": 10
+    },
+    {
+      "name": "not_perfect",
+      "counts": [],
+      "degree": -1,
+      "totalCount": 0,
+      "countLimit": 10
+    },
+    {
+      "name": "retain",
+      "counts": [
+        {
+          "count": 1,
+          "date": "2025-09-09T09:44:02.461Z",
+          "_id": "68bff74a08bb819782a4d197"
+        }
+      ],
+      "degree": 1,
+      "totalCount": 1,
+      "countLimit": 10
+    },
+    {
+      "name": "not_retain",
+      "counts": [],
+      "degree": -1,
+      "totalCount": 0,
+      "countLimit": 10
+    },
+    {
+      "name": "special",
+      "counts": [],
+      "degree": 1,
+      "totalCount": 0,
+      "countLimit": 10
+    },
+    {
+      "name": "polite",
+      "counts": [],
+      "degree": 1,
+      "totalCount": 0,
+      "countLimit": 10
+    },
+    {
+      "name": "resolved_assignment",
+      "counts": [],
+      "degree": 1,
+      "totalCount": 0,
+      "countLimit": 10
+    },
+    {
+      "name": "not_resolved_assignment",
+      "counts": [],
+      "degree": -1,
+      "totalCount": 0,
+      "countLimit": 10
+    },
+    {
+      "name": "sleep_during_lecture",
+      "counts": [],
+      "degree": -1,
+      "totalCount": 0,
+      "countLimit": 10
+    },
+    {
+      "name": "cooperative",
+      "counts": [],
+      "degree": 1,
+      "totalCount": 0,
+      "countLimit": 10
+    },
+    {
+      "name": "seditious",
+      "counts": [],
+      "degree": -1,
+      "totalCount": 0,
+      "countLimit": 10
+    },
+    {
+      "name": "indifference",
+      "counts": [],
+      "degree": -1,
+      "totalCount": 0,
+      "countLimit": 10
+    },
+    {
+      "name": "forgot_book",
+      "counts": [],
+      "degree": -1,
+      "totalCount":0,
+      "countLimit": 10
+    },
+    {
+      "name": "practical_application",
+      "counts": [
+        {
+          "count": 1,
+          "date": "2025-09-09T09:43:28.591Z",
+          "_id": "68bff74a08bb819782a4d198"
+        }
+      ],
+      "degree": 1,
+      "totalCount": 1,
+      "countLimit": 10
+    },
+    {
+      "name": "project_completion",
+      "counts": [],
+      "degree": 1,
+      "totalCount": 0,
+      "countLimit": 10
+    }
+  ],
+  "badgeSettings": [
+    {
+      "name": "star_of_week",
+      "selected": false,
+      "related": [
+        {
+          "degreeName": "*",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "reading",
+      "selected": false,
+      "related": [
+        {
+          "degreeName": "perfect",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "name": "participation",
+      "selected": true,
+      "related": [
+        {
+          "degreeName": "true_contribute",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "name": "special",
+      "selected": false,
+      "related": [
+        {
+          "degreeName": "retain",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "name": "distinguished",
+      "selected": false,
+      "related": [
+        {
+          "degreeName": "polite",
+          "count": 2
+        },
+        {
+          "degreeName": "perfect",
+          "count": 2
+        },
+        {
+          "degreeName": "cooperative",
+          "count": 2
+        }
+      ]
+    }
+  ],
+  "selectedRank": {
+    "name": "beginner",
+    "count": 0
+  },
+  "rankSettings": [
+    {
+      "name": "beginner",
+      "count": 0
+    },
+    {
+      "name": "active",
+      "count": 3
+    },
+    {
+      "name": "special",
+      "count": 6
+    },
+    {
+      "name": "professional",
+      "count": 9
+    },
+    {
+      "name": "legend",
+      "count": 12
+    }
+  ],
+  "__v": 0,
+  "createdAt": "2025-08-24T19:45:21.009Z",
+  "updatedAt": "2025-09-09T23:38:36.936Z"
+}
